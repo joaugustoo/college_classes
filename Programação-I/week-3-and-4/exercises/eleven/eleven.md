@@ -1,0 +1,1 @@
+Exercício 11. Utilizando while, crie um programa que solicita para o usuário que ele digite 10 valores inteiros. Ao final, imprima a soma de todos os valores digitados. 

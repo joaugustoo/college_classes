@@ -1,0 +1,1 @@
+Exercício 14. Utilizando for,crie um programa que imprime a tabuada de um número inteiro digitado pelo usuário.
