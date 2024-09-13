@@ -1,1 +1,1 @@
-Studies related to the Programming 1 discipline, taught by Professor Tatiane Coreixas.
+all the code from the programming and laboratory subjects.
